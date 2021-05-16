@@ -26,10 +26,7 @@ int main() {
 		std::cin >> w_grad;
 	}
 	
-	
 	std::cout << "The area of the sector is " << f(r, w_grad) << "\n";
-	
-	
 	
 	return 0;
 }
