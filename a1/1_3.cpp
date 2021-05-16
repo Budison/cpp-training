@@ -28,10 +28,7 @@ int main() {
 	
 	double w_bogen = (w_grad / 180) * M_PI;
 	
-	
-	std::cout << "The area of the segment is " << f(r, w_bogen) << "\n";
-	
-	
+	std::cout << "The area of the segment is " << f(r, w_bogen) << "\n";	
 	
 	return 0;
 }
